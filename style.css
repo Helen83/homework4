@@ -1,0 +1,26 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background-image: url(background.jpg);
+	height:100%;
+	width: 100%;
+	
+}
+.back{
+	background-color: white;
+	margin: 0 auto;
+	height:990px;
+	width: 1000px;	
+	margin-top: 32px;
+	margin-bottom: 30px; 
+}
+.header{
+	margin: 0 auto;
+}
+.logo{}
+}
+
+
+}
